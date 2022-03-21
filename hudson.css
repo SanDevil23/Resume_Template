@@ -1,0 +1,101 @@
+body {
+   
+    color:rgb(163, 167, 151);
+    margin: 5px;
+    padding: 5px;
+    background-image: url("https://cdn.wallpapersafari.com/7/42/xqlgfA.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Career {
+    text-align: center;
+    block-size: 75%;
+    background-color: rgba(82, 165, 103, 0);
+    border-radius: 32px;
+    border-color: rgb(72, 139, 70);
+    border-style:double;
+    border-width: 0.5px;
+    box-shadow: 3px 3px;
+    padding: 10px;
+}
+
+.Career:hover {
+    text-align: center;
+    block-size: 75%;
+    background-color: rgba(82, 146, 165, 0.39);
+    border-radius: 32px;
+    border-color: rgb(72, 139, 70);
+    border-style:double;
+    border-width: 0.5px;
+    box-shadow: 3px 3px;
+    padding: 10px;
+}
+
+
+a {
+    color:rgb(194, 194, 194);
+}
+a:hover {
+    color: rgb(218, 168, 83);
+}
+
+td {
+    padding:13px;
+    width:100%;
+    color:rgb(200, 255, 0);
+    border-width:2px;
+    background-color: rgba(4, 49, 49, 0.247);
+}
+
+th {
+    padding:13px;
+    width:100%;
+    color:rgb(200, 255, 0);
+    border-width:2px;
+    background-color: rgba(37, 170, 170, 0.774);
+}
+
+td:hover{
+    color:rgb(207, 200, 200);
+    background-color: rgba(22, 199, 199, 0.589);
+    border-radius: 16px;
+}
+table {
+    border-radius: 16px;
+}
+.SA {
+    background-color: rgba(77, 86, 112, 0.397);
+    border-radius: 8px;
+    text-align:left;
+}
+
+.SA:hover {
+    color:rgba(216, 216, 216, 0.849);
+    background-color:rgba(230, 155, 57, 0.404);
+}
+
+.Dash {
+    background-color:rgba(82, 165, 103, 0);
+    border-color: rgb(39, 119, 43);
+    border-style:double;
+    border-width: 0.5px;
+    border-radius: 16px;
+    box-shadow: 2px 2px;
+    margin:10px;
+    padding:10px;
+}
+
+.Dash:hover {
+    background-color:rgba(157, 133, 180, 0.281);
+    border-color: rgb(57, 138, 57);
+    border-style: double;
+    border-radius: 16px;
+    box-shadow: 2px 2px;
+    margin:10px;
+    padding:10px;
+}
+
+.s:hover {
+    color:rgb(255, 136, 0)
+}
